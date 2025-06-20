@@ -2,8 +2,6 @@
 
 **TikTok Downloader** is a browser extension that allows you to download videos and images directly from TikTok with one click — without watermarks, ads, or 3rd-party tools.
 
-![Logo](icons/icon128.png)
-
 ## Features
 
 - Download any TikTok **video** in original quality
